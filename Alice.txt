@@ -3,3 +3,5 @@ Practice for divergent branches.
 Practice for rebase.
 Dev Environment edit.
 Practice for pulling with conflicts.
+Rewrite history 2
+Another change.
